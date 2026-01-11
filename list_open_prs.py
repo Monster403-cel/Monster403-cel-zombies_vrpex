@@ -5,6 +5,7 @@ Script to list open pull requests for Monster403-cel-zombies_vrpex repository
 
 import json
 import urllib.request
+import urllib.error
 import sys
 
 OWNER = "Monster403-cel"
